@@ -5,6 +5,7 @@ Project Description
 Welcome to the Dreamlike Image Generation project, where imagination meets innovation! This project utilizes advanced text-to-image generation techniques to transform whimsical and creative text prompts into stunning visual artwork. By harnessing the power of state-of-the-art AI models, users can explore their creativity and generate captivating images that bring their words to life.
 
 Key Features:
+      
       Intuitive Text-to-Image Transformation: Users can input imaginative prompts and receive beautifully crafted images that reflect their descriptions. From playful scenes to intricate designs, the possibilities        are limitless.
       
       Customizable Parameters: The application allows for fine-tuning of parameters such as inference steps, image dimensions, and the number of images generated per prompt. This flexibility enables users to tailor        outputs to their specific needs.
