@@ -1,0 +1,9 @@
+Steps to follow to run this Image generator :-
+1.Install all the code files.
+2.Install the necessary libraries and packages
+(Pytorch,Matplotlib,Transforners)
+3.Run the code one by one in your code editor(for me PYCHARM)
+4.Make sure CUDA and CUDNN are installed and running properly
+else follow this video( https://youtu.be/nATRPPZ5dGE?si=DAKLjzLs-uEYHz9o )
+5.Now enter the prompt and get the IMAGE with a span of 17 sec
+6.Thats it!!!
