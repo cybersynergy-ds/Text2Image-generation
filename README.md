@@ -6,12 +6,17 @@ Welcome to the Dreamlike Image Generation project, where imagination meets innov
 
 Key Features:
       
-      Intuitive Text-to-Image Transformation: Users can input imaginative prompts and receive beautifully crafted images that reflect their descriptions. From playful scenes to intricate designs, the possibilities        are limitless.
+      Intuitive Text-to-Image Transformation: Users can input imaginative prompts and receive beautifully crafted images that reflect their descriptions. 
+      From playful scenes to intricate designs, the possibilities are limitless.
       
-      Customizable Parameters: The application allows for fine-tuning of parameters such as inference steps, image dimensions, and the number of images generated per prompt. This flexibility enables users to tailor        outputs to their specific needs.
+      Customizable Parameters: The application allows for fine-tuning of parameters such as inference steps, image dimensions, 
+      and the number of images generated per prompt. This flexibility enables users to tailor outputs to their specific needs.
       
-      Multiple Image Outputs: Generate multiple images from a single prompt, offering diverse interpretations of the same description. This feature encourages exploration and creativity, allowing users to choose          their favorite depiction.
+      Multiple Image Outputs: Generate multiple images from a single prompt, offering diverse interpretations of the same description. 
+      This feature encourages exploration and creativity, allowing users to choose  their favorite depiction.
       
-      User-Friendly Visualization: Utilizing Matplotlib, the generated images are displayed in an organized and aesthetically pleasing manner. This makes it easy for users to compare different outputs side by side.
+      User-Friendly Visualization: Utilizing Matplotlib, the generated images are displayed in an organized and aesthetically pleasing manner. 
+      This makes it easy for users to compare different outputs side by side.
       
-      Artistic Inspiration: The project serves as a tool for artists, designers, and storytellers, providing a new medium for inspiration and creativity. Whether for professional use or personal exploration, this         application can help spark new ideas and artistic expressions.
+      Artistic Inspiration: The project serves as a tool for artists, designers, and storytellers, providing a new medium for inspiration and creativity. 
+      Whether for professional use or personal exploration, this  application can help spark new ideas and artistic expressions.
