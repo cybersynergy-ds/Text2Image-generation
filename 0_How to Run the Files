@@ -1,4 +1,6 @@
 Steps to follow to run this Image generator :-
+CLICK ON THE Generate_your_prompt OPEN google collab and create your own image
+
 1.Install all the code files.
 2.Install the necessary libraries and packages
 (Pytorch,Matplotlib,Transforners)
